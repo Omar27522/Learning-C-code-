@@ -14,3 +14,4 @@ printf("     **     \n");
 printf("     **     \n");
 scanf("%d",&a);
 }
+/*This tree is supposed to be displayed with an iteration using only a single char * */
