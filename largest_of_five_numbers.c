@@ -43,22 +43,21 @@
 8.	Display the value of the variable Maximum.
 */
 #include<stdio.h>
-int main()
-{
-	int 
-	index, number, maximum;
-	
-	index = 0;
-	printf("Please enter number: ");
-	scanf("%d", &number);
-	maximum = number;
-	while (index<4)
-	{
-		index = index+1;
-		printf("Please enter number: ");
-		scanf("%d",&number);
-		if (number > maximum)
-			maximum=number;
-		}
-	printf("The maximim of the values entered is %d\n",maximum);
+
+int main() {
+  int
+  index, number, maximum;
+
+  index = 0;
+  printf("Please enter number: ");
+  scanf("%d", & number);
+  maximum = number;
+  while (index < 4) {
+    index = index + 1;
+    printf("Please enter number: ");
+    scanf("%d", & number);
+    if (number > maximum)
+      maximum = number;
+  }
+  printf("The maximim of the values entered is %d\n", maximum);
 }
