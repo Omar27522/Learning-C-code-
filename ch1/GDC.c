@@ -1,12 +1,12 @@
 /*1st  exercise 1.4
-find the Grearest Common Divisor 
+find the Greatest Common Divisor 
 using Euclid's formula.
 
 1. User inputs int 2 numbers.
 
 2. Find which of the two is larger.
 
-3. Substract the smallest from the largest.
+3. Subtract the smallest from the largest.
 
 4. The answer replaces the place of the  max number.
 
