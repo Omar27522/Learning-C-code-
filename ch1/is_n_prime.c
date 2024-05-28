@@ -24,7 +24,6 @@ main () {
                                */
     
 #include <stdio.h>
-
 int main() {
     int numb;
     printf("Enter a number: ");
@@ -47,8 +46,7 @@ int main() {
         printf("%d! is prime\n", numb);
     } else {
         printf("%d! is NOT prime\n", numb);
-    }
-    
+    } 
     return 0;
 }
 
