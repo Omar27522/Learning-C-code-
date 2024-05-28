@@ -1,4 +1,7 @@
-/* 1.4.2 A positive integer is prime if its only divisors are one and itself. One method of determining whether a given positive integer is prime is to successively divide it by numbers smaller than itself to see whether any of these divide it evenly. Using Polya's problem-solving methodology. design an algorithm for the solution to this problem. Your algorithm should be presented in pseudocode.*/
+/* 1.4.2 A positive integer is prime if its only divisors are one and itself.
+One method of determining whether a given positive integer is prime is to successively divide it by numbers smaller than itself to see whether any of these divide it evenly.
+Using Polya's problem-solving methodology. design an algorithm for the solution to this problem.
+Your algorithm should be presented in pseudocode.*/
 
 /* My approach 😮‍💨
 #include <stdio.h>
