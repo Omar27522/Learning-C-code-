@@ -1,4 +1,4 @@
-/*1st  exercise 1.4
+/*1st  exercise 1.4.1
 find the Greatest Common Divisor 
 using Euclid's formula.
 
